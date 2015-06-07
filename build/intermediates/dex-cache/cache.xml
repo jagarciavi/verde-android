@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/pre-dexed/release/classes-09627d2590b23630628cea93e5d2039624bdbd59.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/pre-dexed/debug/classes-484c9d60cf6c92cc2e190ae71b8556ad49780bb9.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-5ccd4b3c46f89932a331314815fb4639d6e224e6.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/pre-dexed/release/classes-df7507605b9896016f43f5657b994f47038b43cb.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-be34bac65154068b065dd0d614fa36343526a994.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jagarciavi/AndroidStudioProjects/Verde/app/build/intermediates/pre-dexed/debug/classes-dffcd235276063d3f3f672096fac1f3775bbe0b9.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/pre-dexed/release/classes-0c2f158504c4eb28a776b90335b9770ee78cc91a.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/pre-dexed/release/classes-34c2685b5542aad40e90e1fc301214065616d5ea.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/pre-dexed/release/classes-a9fc293c09a4b7d593b23e19128aea08d0a7a6a9.jar" />
+    </item>
+    <item
+        jar="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jagarciavi/Documents/verde-android/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-d8fcdcb52d7a0c84c0f2da4e8ae275fd2221bf88.jar" />
+    </item>
+
+</items>
